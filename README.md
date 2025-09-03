@@ -1,9 +1,11 @@
-
+# Task-1
 # 🧹 Data Cleaning & Preprocessing
 
 - In this project, I worked with the Customer Personality Analysis (Marketing Campaign) dataset and performed several preprocessing steps to make the data clean, consistent, and ready for analysis using Python
   
 #### Tool Used : Jupyter Notebook
+#### Data set : [marketing_campaign_Task-1.csv](https://github.com/user-attachments/files/22124731/marketing_campaign_Task-1.csv)
+
 
 # ✅ Steps Performed
 
